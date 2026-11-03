@@ -1,0 +1,8 @@
+{
+  "client_id": "https://zinscky.github.io/cimd/clients/my-mcp.json",
+  "client_name": "My MCP client",
+  "redirect_uris": ["http://127.0.0.1:9000/oauth/callback"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
